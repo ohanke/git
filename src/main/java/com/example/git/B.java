@@ -2,6 +2,6 @@ package com.example.git;
 
 public class B {
     public void print(){
-        System.out.println("Bbbcccccccccccbbddddddddddddddbbb");
+        System.out.println("Bbbccccccccccccccccccbbddddddddddddddbbb");
     }
 }
